@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "972089465483",
+    "project_id": "farm-management-system-548dc",
+    "storage_bucket": "farm-management-system-548dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972089465483:android:a0fad70544bf5f542ed28e",
+        "android_client_info": {
+          "package_name": "com.example.crudappwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972089465483-85ivac9od1l5ch1thhamti4jp4iacjb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSDz6JQau_J-jRkOg2qjuzSG1AJzv5qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972089465483-85ivac9od1l5ch1thhamti4jp4iacjb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972089465483:android:3e4fdc855e194e2e2ed28e",
+        "android_client_info": {
+          "package_name": "com.example.fms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972089465483-85ivac9od1l5ch1thhamti4jp4iacjb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSDz6JQau_J-jRkOg2qjuzSG1AJzv5qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972089465483-85ivac9od1l5ch1thhamti4jp4iacjb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
